@@ -1,0 +1,8 @@
+.centrarestetexto{
+    text-align: center;
+}
+
+.alinear_flex{
+    display: flex;
+    justify-content: center;
+}
